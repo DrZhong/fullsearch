@@ -1,0 +1,4 @@
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.IMODEL\bin\Debug\51API.FullSearch.IMODEL.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.IMODEL\bin\Debug\51API.FullSearch.IMODEL.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.IMODEL\obj\Debug\51API.FullSearch.IMODEL.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.IMODEL\obj\Debug\51API.FullSearch.IMODEL.pdb

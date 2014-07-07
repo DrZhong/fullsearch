@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51API.FullSearch", "51API.FullSearch\51API.FullSearch.csproj", "{5EAA618C-D6D2-4136-8DDC-53B5025DDC8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51API.FullSearch.MODEL", "51API.FullSearch.MODEL\51API.FullSearch.MODEL.csproj", "{9E59E2E6-D556-4767-B42D-FB98B7549DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51API.FullSearch.HELP", "51API.FullSearch.HELP\51API.FullSearch.HELP.csproj", "{D2E1353B-A958-4461-9416-5FDE4BFC8ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51API.FullSearch.IMODEL", "51API.FullSearch.IMODEL\51API.FullSearch.IMODEL.csproj", "{94087A4E-1910-4DD6-BD93-A1B74F6CA76B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "51API.FullSearch.Cache", "51API.FullSearch.Cache\51API.FullSearch.Cache.csproj", "{6854A948-5F7F-4DFE-8FAE-69A4F1F39981}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://www.six006.com:8080/tfs/huahaicompanystudy
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 51API.FullSearch.HELP\\51API.FullSearch.HELP.csproj
+		SccProjectName1 = 51API.FullSearch.HELP
+		SccLocalPath1 = 51API.FullSearch.HELP
+		SccProjectUniqueName2 = 51API.FullSearch.IMODEL\\51API.FullSearch.IMODEL.csproj
+		SccProjectName2 = 51API.FullSearch.IMODEL
+		SccLocalPath2 = 51API.FullSearch.IMODEL
+		SccProjectUniqueName3 = 51API.FullSearch.MODEL\\51API.FullSearch.MODEL.csproj
+		SccProjectName3 = 51API.FullSearch.MODEL
+		SccLocalPath3 = 51API.FullSearch.MODEL
+		SccProjectUniqueName4 = 51API.FullSearch\\51API.FullSearch.csproj
+		SccProjectName4 = 51API.FullSearch
+		SccLocalPath4 = 51API.FullSearch
+		SccProjectUniqueName5 = 51API.FullSearch.Cache\\51API.FullSearch.Cache.csproj
+		SccProjectName5 = 51API.FullSearch.Cache
+		SccLocalPath5 = 51API.FullSearch.Cache
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAA618C-D6D2-4136-8DDC-53B5025DDC8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAA618C-D6D2-4136-8DDC-53B5025DDC8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAA618C-D6D2-4136-8DDC-53B5025DDC8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAA618C-D6D2-4136-8DDC-53B5025DDC8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E59E2E6-D556-4767-B42D-FB98B7549DD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E59E2E6-D556-4767-B42D-FB98B7549DD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E59E2E6-D556-4767-B42D-FB98B7549DD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E59E2E6-D556-4767-B42D-FB98B7549DD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E1353B-A958-4461-9416-5FDE4BFC8ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E1353B-A958-4461-9416-5FDE4BFC8ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E1353B-A958-4461-9416-5FDE4BFC8ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E1353B-A958-4461-9416-5FDE4BFC8ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94087A4E-1910-4DD6-BD93-A1B74F6CA76B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94087A4E-1910-4DD6-BD93-A1B74F6CA76B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94087A4E-1910-4DD6-BD93-A1B74F6CA76B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94087A4E-1910-4DD6-BD93-A1B74F6CA76B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6854A948-5F7F-4DFE-8FAE-69A4F1F39981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6854A948-5F7F-4DFE-8FAE-69A4F1F39981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6854A948-5F7F-4DFE-8FAE-69A4F1F39981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6854A948-5F7F-4DFE-8FAE-69A4F1F39981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

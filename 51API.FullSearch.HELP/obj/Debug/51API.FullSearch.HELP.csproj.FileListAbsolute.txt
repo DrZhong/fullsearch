@@ -1,0 +1,10 @@
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\51API.FullSearch.HELP.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\51API.FullSearch.HELP.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\Lucene.Net.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\PanGu.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\PanGu.HighLight.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\PanGu.Lucene.Analyzer.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\bin\Debug\PanGu.xml
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\obj\Debug\51API.FullSearch.HELP.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\obj\Debug\51API.FullSearch.HELP.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.HELP\obj\Debug\51API.FullSearch.HELP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\51API.FullSearch.Cache.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\51API.FullSearch.Cache.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\System.Web.Http.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\System.Net.Http.Formatting.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\System.Web.Http.xml
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\System.Net.Http.Formatting.xml
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\obj\Debug\51API.FullSearch.Cache.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\obj\Debug\51API.FullSearch.Cache.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.Cache\obj\Debug\51API.FullSearch.Cache.csprojResolveAssemblyReference.cache

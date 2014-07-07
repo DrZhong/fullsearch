@@ -1,0 +1,7 @@
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\bin\Debug\51API.FullSearch.MODEL.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\bin\Debug\51API.FullSearch.MODEL.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\obj\Debug\51API.FullSearch.MODEL.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\obj\Debug\51API.FullSearch.MODEL.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\bin\Debug\51API.FullSearch.IMODEL.dll
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\bin\Debug\51API.FullSearch.IMODEL.pdb
+E:\Vs2013\20130623\51API.FullSearch\51API.FullSearch.MODEL\obj\Debug\51API.FullSearch.MODEL.csprojResolveAssemblyReference.cache
